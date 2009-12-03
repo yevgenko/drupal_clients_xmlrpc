@@ -1,0 +1,7 @@
+; $Id$
+name = Simple XML-RPC Client
+description = Simple client API for XMLRPC interface of services module
+package = Clients
+
+core = 6.x
+version = "6.x-1.0"
